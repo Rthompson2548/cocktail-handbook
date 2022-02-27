@@ -82,12 +82,12 @@ Buttons
 Navbar
 */
 .navbar {
-  height: 5rem;
+  height: 4rem;
   display: flex;
   flex-direction: column;
   align-items: center;
   position: fixed;
-  /* margin: 0 0 5px 0; */
+  padding-top: 0.5rem;
   color: #fff;
   top: 0;
   width: 100%;
@@ -99,7 +99,7 @@ Navbar
 
 .nav-bar-name {
   color: #fff;
-  font-size: 28px;
+  font-size: 22px;
   letter-spacing: 5px;
   display: flex;
   font-weight: lighter;
@@ -109,7 +109,7 @@ Navbar
   color: #fff;
   display: flex;
   justify-content: center;
-  font-size: 16px;
+  font-size: 12px;
 }
 
 /* 
