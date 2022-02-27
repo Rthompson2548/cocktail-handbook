@@ -97,7 +97,7 @@ export default function SingleCocktail() {
             
            </div>
           <Link to='/' className='btn home-button'>
-            BACK TO COCKTAILS
+            BACK HOME
           </Link>
       </article>
     </div>
