@@ -159,8 +159,8 @@ Single Cocktail
 .cocktail {
   background-color: #ffffff !important;
   color: #000 !important;
-  padding: 1rem 2rem;
-  margin: 2rem !important;
+  padding: 1rem 1.5rem;
+  margin: 1rem !important;
   box-shadow: rgba(138, 138, 138, 0.24) 0px 3px 8px; 
   transition: var(--mainTransition);
   display: grid;
@@ -170,7 +170,7 @@ Single Cocktail
 }
 
 .cocktail img {
-  width: 275px;
+  width: 250px;
   height: auto;
   border-radius: 5px;
   margin-bottom: 1rem;
@@ -179,7 +179,7 @@ Single Cocktail
 .cocktail-name {
   font-weight: bold !important;
   letter-spacing: .9px;
-  /* font-family: 'Karla', sans-serif; */
+  font-family: 'Raleway', sans-serif;
   margin-bottom: 16px;
   font-size: 40px;
 }
@@ -265,8 +265,8 @@ Cocktail
   background-color: #ffffff !important;
   color: #000 !important;
   width: 400px;
-  padding: 1.5rem 2rem;
-  margin: 6rem 2rem 5rem 2rem;
+  padding: 2rem;
+  margin: 6rem 2.5rem 3rem 2.5rem;
   box-shadow: rgba(138, 138, 138, 0.24) 0px 3px 8px; 
   border-radius: var(--mainBorderRadius);
   box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
@@ -275,13 +275,13 @@ Cocktail
 .single-cocktail-name {
   font-weight: bold !important;
   letter-spacing: .9px;
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Raleway', sans-serif;
   margin-bottom: 24px;
   font-size: 38px;
 }
 
 .single-cocktail img {
-  width: 275px;
+  width: 250px;
   height: auto;
   border-radius: 5px;
   margin-bottom: 1rem;
