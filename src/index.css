@@ -86,7 +86,7 @@ Navbar
   display: flex;
   flex-direction: column;
   align-items: center;
-  position: fixed;
+  position: fixed !important;
   padding-top: 0.5rem;
   color: #fff;
   top: 0;
