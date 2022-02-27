@@ -1,11 +1,23 @@
-#### React Router Fix
+# Cocktail Handbook
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+## Deployed Application
+https://cocktail-point.vercel.app/
 
-#### CRA Fix
+## Features
+A mobile application that allows users to
+- Search cocktails by name
+- View a list of cocktails
+- View a single cocktail
+- View images, ingredients, categories, and recipes for any cocktail
 
-```
+## Technologies
+- JavaScript
+- CSS
+- HTML
+- Vercel
+- React
+- API
 
-"build": "CI= react-scripts build",
+## Preview
 
-```
+![cocktail-handbook](https://user-images.githubusercontent.com/80596387/155869616-91790089-7a98-4cfd-bdc9-b31f9dbae65c.PNG)
