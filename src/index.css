@@ -118,11 +118,10 @@ Error
 .error-page {
   display: flex;
   justify-content: center;
-}
-
-.error-container {
-  text-align: center;
-  text-transform: capitalize;
+  color: #fff;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  letter-spacing: 1px;
 }
 
 .section-title {
@@ -177,17 +176,16 @@ Single Cocktail
 }
 
 .cocktail-name {
-  font-weight: bold !important;
   letter-spacing: .9px;
   font-family: 'Raleway', sans-serif;
   margin-bottom: 16px;
-  font-size: 40px;
+  font-weight: 900;
+  font-size: 20px;
 }
 
 .cocktail-info-text {
   line-height: 1.75rem;
-  
-  font-size: 14px;
+  font-size: 12px;
   letter-spacing: 0.5px;
 }
 
@@ -277,7 +275,7 @@ Cocktail
   letter-spacing: .9px;
   font-family: 'Raleway', sans-serif;
   margin-bottom: 24px;
-  font-size: 38px;
+  font-size: 20px;
 }
 
 .single-cocktail img {

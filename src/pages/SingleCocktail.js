@@ -97,7 +97,7 @@ export default function SingleCocktail() {
             
            </div>
           <Link to='/' className='btn home-button'>
-            View cocktails
+            BACK TO COCKTAILS
           </Link>
       </article>
     </div>
